@@ -21,3 +21,18 @@
 # 5、  
 将"Hello,world!"改为"Hello glimmer!"  
 [![pAJqj0I.png](https://s21.ax1x.com/2024/10/10/pAJqj0I.png)](https://imgse.com/i/pAJqj0I)
+#include<stdio.h>
+int main(){
+    int code;
+    printf("Show me your code,please.");
+    while(1){
+        scanf("%d",&code);
+        if(code>=100000&&code<=999999){
+        printf("I am super hacker!");
+        return 0;
+        }else{
+            printf("Fake code!");
+        }
+    }
+    return 0;
+}
