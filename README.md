@@ -21,6 +21,7 @@
 # 5、  
 将"Hello,world!"改为"Hello glimmer!"  
 [![pAJqj0I.png](https://s21.ax1x.com/2024/10/10/pAJqj0I.png)](https://imgse.com/i/pAJqj0I)  
+# 基础语法运用  
 #include<stdio.h>  
 int main(){  
     int code;  
