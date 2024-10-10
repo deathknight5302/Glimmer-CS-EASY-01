@@ -20,3 +20,4 @@
 + 因为int需要返回值(0),用于表示代码运行成功  
 # 5、  
 将"Hello,world!"改为"Hello glimmer!"  
+[![pAJqj0I.png](https://s21.ax1x.com/2024/10/10/pAJqj0I.png)](https://imgse.com/i/pAJqj0I)
